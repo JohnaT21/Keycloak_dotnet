@@ -1,0 +1,17 @@
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapitest.Service.csproj.AssemblyReference.cache
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapitest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapitest.Service.AssemblyInfoInputs.cache
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapitest.Service.AssemblyInfo.cs
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapitest.Service.csproj.CoreCompileInputs.cache
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\bin\Debug\net7.0\backapitest.Service.deps.json
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\bin\Debug\net7.0\backapitest.Service.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\bin\Debug\net7.0\backapitest.Service.pdb
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\bin\Debug\net7.0\backapitest.Data.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\bin\Debug\net7.0\backapitest.DTO.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\bin\Debug\net7.0\backapitest.DTO.pdb
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\bin\Debug\net7.0\backapitest.Data.pdb
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapit.8415CBB3.Up2Date
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapitest.Service.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\refint\backapitest.Service.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\backapitest.Service.pdb
+C:\Users\johnaT\source\repos\backapitest\backapitest.Service\obj\Debug\net7.0\ref\backapitest.Service.dll

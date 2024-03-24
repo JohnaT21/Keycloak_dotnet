@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnaT\\source\\repos\\backapitest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\controllers\\supabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\controllers\\supabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\controllers\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\controllers\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\controllers\\isupabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\controllers\\isupabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\dto\\supabaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\dto\\supabaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\controllers\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\controllers\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\controllers\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\controllers\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\model\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\model\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\dependencyinjection\\autofacconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\dependencyinjection\\autofacconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|c:\\users\\johnat\\source\\repos\\backapitest\\backapitest\\dto\\supabaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA803C97-CF8F-4508-A13B-EEFBF324FDA4}|backapitest\\backapitest.csproj|solutionrelative:backapitest\\dto\\supabaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Model\\SignUpRequest.cs",
+              "RelativeDocumentMoniker": "backapitest\\Model\\SignUpRequest.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Model\\SignUpRequest.cs",
+              "RelativeToolTip": "backapitest\\Model\\SignUpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:34:12.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Program.cs",
+              "RelativeDocumentMoniker": "backapitest\\Program.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Program.cs",
+              "RelativeToolTip": "backapitest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:50:00.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "backapitest\\docker-compose.yaml",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\docker-compose.yaml",
+              "RelativeToolTip": "backapitest\\docker-compose.yaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-11T18:02:36.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupabaseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\DTO\\SupabaseRequest.cs",
+              "RelativeDocumentMoniker": "backapitest\\DTO\\SupabaseRequest.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\DTO\\SupabaseRequest.cs",
+              "RelativeToolTip": "backapitest\\DTO\\SupabaseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:35:07.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\IUserService.cs",
+              "RelativeDocumentMoniker": "backapitest\\Controllers\\IUserService.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\IUserService.cs",
+              "RelativeToolTip": "backapitest\\Controllers\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:35:20.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\appsettings.json",
+              "RelativeDocumentMoniker": "backapitest\\appsettings.json",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\appsettings.json",
+              "RelativeToolTip": "backapitest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T21:04:25.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Model\\User.cs",
+              "RelativeDocumentMoniker": "backapitest\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Model\\User.cs",
+              "RelativeToolTip": "backapitest\\Model\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:29:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\SupabaseController.cs",
+              "RelativeDocumentMoniker": "backapitest\\Controllers\\SupabaseController.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\SupabaseController.cs",
+              "RelativeToolTip": "backapitest\\Controllers\\SupabaseController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwDkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:19:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Startup.cs",
+              "RelativeDocumentMoniker": "backapitest\\Startup.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Startup.cs",
+              "RelativeToolTip": "backapitest\\Startup.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA7wB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:44:52.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISupabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\ISupabaseService.cs",
+              "RelativeDocumentMoniker": "backapitest\\Controllers\\ISupabaseService.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\ISupabaseService.cs",
+              "RelativeToolTip": "backapitest\\Controllers\\ISupabaseService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:56:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\SupabaseService.cs",
+              "RelativeDocumentMoniker": "backapitest\\Controllers\\SupabaseService.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\SupabaseService.cs",
+              "RelativeToolTip": "backapitest\\Controllers\\SupabaseService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAwwFYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:22:41.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Dockerfile",
+              "RelativeDocumentMoniker": "backapitest\\Dockerfile",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Dockerfile",
+              "RelativeToolTip": "backapitest\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-10T10:10:34.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\UserService.cs",
+              "RelativeDocumentMoniker": "backapitest\\Controllers\\UserService.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\Controllers\\UserService.cs",
+              "RelativeToolTip": "backapitest\\Controllers\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:36:22.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupabaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\DTO\\SupabaseResponse.cs",
+              "RelativeDocumentMoniker": "backapitest\\DTO\\SupabaseResponse.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\DTO\\SupabaseResponse.cs",
+              "RelativeToolTip": "backapitest\\DTO\\SupabaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:36:24.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoFacConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\DependencyInjection\\AutoFacConfiguration.cs",
+              "RelativeDocumentMoniker": "backapitest\\DependencyInjection\\AutoFacConfiguration.cs",
+              "ToolTip": "C:\\Users\\johnaT\\source\\repos\\backapitest\\backapitest\\DependencyInjection\\AutoFacConfiguration.cs",
+              "RelativeToolTip": "backapitest\\DependencyInjection\\AutoFacConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T00:14:50.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

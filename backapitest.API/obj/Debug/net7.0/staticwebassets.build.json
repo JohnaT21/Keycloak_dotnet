@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UzPTWqgjme4nbsvMKDT90L4xapsk9gnkvQtbh5eBCTs=",
+  "Source": "backapitest.API",
+  "BasePath": "_content/backapitest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

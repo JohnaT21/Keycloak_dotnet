@@ -1,0 +1,11 @@
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\bin\Debug\net7.0\backapitest.DTO.deps.json
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\bin\Debug\net7.0\backapitest.DTO.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\bin\Debug\net7.0\backapitest.DTO.pdb
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\backapitest.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\backapitest.DTO.AssemblyInfoInputs.cache
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\backapitest.DTO.AssemblyInfo.cs
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\backapitest.DTO.csproj.CoreCompileInputs.cache
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\backapitest.DTO.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\refint\backapitest.DTO.dll
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\backapitest.DTO.pdb
+C:\Users\johnaT\source\repos\backapitest\backapitest.DTO\obj\Debug\net7.0\ref\backapitest.DTO.dll
